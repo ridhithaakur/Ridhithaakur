@@ -7,7 +7,7 @@ Data Explorer | Code Connoisseur | Analytics Alchemist 🔬
 
 🧪 As a Data Engineer, I architect the pipelines that channel raw data into a symphony of structured insights. With a knack for optimizing performance and scalability, I transform data flows into seamless melodies, orchestrating their journey from source to destination.
 
-📊 But wait, there's more! As an Analyst, I don my detective hat, diving deep into datasets to unearth the stories they hold. Armed with statistical sorcery and visualization magic, I paint vivid portraits of trends, anomalies, and opportunities, guiding stakeholders through the labyrinth of information.
+📊 But wait, there's more! As an Analyst, I  diving deep into datasets to unearth the stories they hold. Armed with statistical sorcery and visualization magic, I paint vivid portraits of trends, anomalies, and opportunities, guiding stakeholders through the labyrinth of information.
 
 🔮 And let's not forget my alter ego – the Data Scientist. With machine learning spells and predictive enchantments, I peer into the future, crafting models that forecast trends, anticipate behaviors, and empower decision-makers with the gift of foresight.
 
