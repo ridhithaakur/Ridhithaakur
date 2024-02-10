@@ -1,7 +1,3 @@
-### Hi there 👋
-
-Data Explorer | Code Connoisseur | Analytics Alchemist 🔬
-
 
 👋 Hey there! I'm Ridhi, your go-to wizard in the realms of data. Whether it's tinkering with pipelines, sculpting insights from spreadsheets, or conjuring predictive models, I thrive on the thrill of unraveling the mysteries hidden within the digits.
 
